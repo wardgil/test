@@ -8,6 +8,6 @@ package com.test1;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("hi hi");
+        System.out.println("得得得得得得得得得");
     }
 }
